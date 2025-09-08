@@ -1,0 +1,49 @@
+site_name: Lenguajes de marcas y sistemas de gestión de información
+theme:
+  name: material
+  language: es
+  logo: assets/img/logo.png
+  favicon: assets/img/favicon.png
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - toc.integrate
+    - search.highlight
+    - content.code.annotate
+    - header.autohide
+    - navigation.expand 
+  
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: light blue
+      toggle:
+        icon: material/weather-night
+        name: Cambiar a modo oscuro
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Cambiar a modo claro        
+  font:
+    text: Open Sans
+
+extra_css:
+  - styles/extra.css
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.tabbed
+  - pymdownx.tasklist
+  - pymdownx.emoji
+
+nav:
+  - Inicio: index.md
+  - Unidad1. Introducción a los lenguajes de marcas: u1/u1.md
+  - Unidad2. Lenguajes de marcas web. HTML y CSS: u2/u2.md

@@ -1,0 +1,48 @@
+/* Forzar color negro y peso en cabeceras */
+h1, h2, h3 {
+  color: #000000 !important;
+  font-weight: 700 !important; 
+}
+
+/* Aumentar tamaño de texto general */
+.md-typeset {
+  font-size: 1.0rem;  /* Puedes subir a 1.1rem, 1.15rem... */
+  line-height: 1.4;
+}
+
+/* Aumentar tamaño de encabezados */
+.md-typeset h1 {
+  font-size: 2.0em;
+}
+.md-typeset h2 {
+  font-size: 1.6em;
+}
+.md-typeset h3 {
+  font-size: 1.3em;
+}
+
+.md-typeset table,
+.md-typeset table th,
+.md-typeset table td {
+  font-size: 1.0rem; 
+}
+
+
+.md-nav {
+  font-size: 0.85rem;  
+  color: #000000 !important;
+}
+
+.md-nav__title {
+  font-weight: 700;
+  font-size: 1.0rem;
+  color: #000000 !important;
+}
+
+/* Aumentar tamaño del texto en admonitions */
+.md-typeset .admonition,
+.md-typeset details {
+  font-size: 1.05rem;
+  line-height: 1.6;
+}
+

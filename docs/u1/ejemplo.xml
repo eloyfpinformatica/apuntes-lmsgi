@@ -1,0 +1,13 @@
+<peliculas>
+  <pelicula>
+    <titulo>El viaje de Chihiro</titulo>
+    <director>Hayao Miyazaki</director>
+    <año>2001</año>
+    <generos>
+      <genero>Animación</genero>
+      <genero>Fantasía</genero>
+    </generos>
+    <puntuacion>5</puntuacion>
+    <sinopsis>Una niña atraviesa un mundo mágico para salvar a sus padres.</sinopsis>
+  </pelicula>
+</peliculas>

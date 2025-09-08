@@ -1,0 +1,22 @@
+CATÁLOGO DE PELÍCULAS
+
+1. Título: El viaje de Chihiro
+   Director: Hayao Miyazaki
+   Año: 2001
+   Género: Animación, Fantasía
+   Puntuación: 5
+   Sinopsis: Una niña atraviesa un mundo mágico para salvar a sus padres.
+
+2. Título: Origen
+   Director: Christopher Nolan
+   Año: 2010
+   Género: Ciencia ficción, Acción
+   Puntuación: 4
+   Sinopsis: Un ladrón especializado en robar secretos del subconsciente participa en una misión imposible.
+
+3. Título: Amélie
+   Director: Jean-Pierre Jeunet
+   Año: 2001
+   Género: Comedia dramática
+   Puntuación: 5
+   Sinopsis: Una joven parisina decide cambiar la vida de quienes la rodean.

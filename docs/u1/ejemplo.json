@@ -1,0 +1,12 @@
+{
+  "peliculas": [
+    {
+      "titulo": "El viaje de Chihiro",
+      "director": "Hayao Miyazaki",
+      "año": 2001,
+      "genero": ["Animación", "Fantasía"],
+      "puntuacion": 5,
+      "sinopsis": "Una niña atraviesa un mundo mágico para salvar a sus padres."
+    }
+  ]
+}
